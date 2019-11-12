@@ -1,0 +1,15 @@
+{
+  "name": "gdims/ifs3-php-sdk",
+  "description": "PHP SDK for the Graphik Dimensions Ltd. ",
+  "keywords": ["ecommerce","art","wall décor"],
+  "homepage": "https://www.graphikprintworks.com",
+  "license": "proprietary",
+  "authors": [{
+    "name": "Stephen Paschall",
+    "email": "ifs-dev-support@graphikdimensions.com",
+    "homepage": "https://graphikdimensions.com"
+  }],
+  "require": {
+    "php": ">=5.3"
+  }
+}
